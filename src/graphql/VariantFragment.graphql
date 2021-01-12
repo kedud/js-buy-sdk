@@ -27,6 +27,8 @@ fragment VariantFragment on ProductVariant {
   weight
   available: availableForSale
   sku
+  currentlyNotInStock
+  quantityAvailable
   compareAtPrice
   compareAtPriceV2 {
     amount
@@ -51,5 +53,8 @@ fragment VariantFragment on ProductVariant {
     quantityValue
     referenceUnit
     referenceValue
+  }
+  product {
+    title
   }
 }
