@@ -55,6 +55,8 @@ fragment VariantFragment on ProductVariant {
     referenceValue
   }
   product {
+    id
+    handle
     title
   }
 }

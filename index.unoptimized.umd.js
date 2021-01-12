@@ -2491,6 +2491,8 @@ function query(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -2629,6 +2631,8 @@ function query$1(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -2770,6 +2774,8 @@ function query$2(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -2920,6 +2926,8 @@ function query$3(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -3226,6 +3234,8 @@ function query$5(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -3449,6 +3459,8 @@ function query$7(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -3630,6 +3642,8 @@ function query$8(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -4094,6 +4108,8 @@ function query$11(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -4418,6 +4434,8 @@ function query$12(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -4760,6 +4778,8 @@ function query$13(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -5103,6 +5123,8 @@ function query$14(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -5446,6 +5468,8 @@ function query$15(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -5782,6 +5806,8 @@ function query$16(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -6125,6 +6151,8 @@ function query$17(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -6468,6 +6496,8 @@ function query$18(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -6810,6 +6840,8 @@ function query$19(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -7152,6 +7184,8 @@ function query$20(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -7495,6 +7529,8 @@ function query$21(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -7838,6 +7874,8 @@ function query$22(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
@@ -8181,6 +8219,8 @@ function query$23(client) {
       unitPriceMeasurement.add("referenceValue");
     });
     root.add("product", function (product) {
+      product.add("id");
+      product.add("handle");
       product.add("title");
     });
   });
